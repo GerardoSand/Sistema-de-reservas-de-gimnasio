@@ -1,7 +1,9 @@
 # Sistema de Gestión de Reservas de Gimnasio
 
 **Universidad Centroamericana José Simeón Cañas (UCA)**
+
 **Departamento de Electrónica e Informática**
+
 **Materia:** Administración de Base de Datos
 
 ## Descripción del Proyecto
@@ -79,4 +81,9 @@ Diseño híbrido para minimizar la pérdida de datos (RPO < 1 hora):
 ## Integración y Visualización
 
 * **Migración (ETL)**: Uso de **SSIS (SQL Server Integration Services)** para la carga masiva y transformación de datos desde Excel/CSV.
+
 * **Visualización**: Dashboard en **Power BI** (`visuals.pbix`) para el monitoreo de indicadores clave.
+
+## Video de defensa
+
+El video de defensa quedo mas largo de lo que deberia, por la carga de contenidos que es amplia, espero disuculpe y valore los esfuerzos de explicar el contenido, resumiendolo para alcanzar el tiempo establecido
