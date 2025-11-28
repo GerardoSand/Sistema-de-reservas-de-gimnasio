@@ -85,5 +85,5 @@ Diseño híbrido para minimizar la pérdida de datos (RPO < 1 hora):
 * **Visualización**: Dashboard en **Power BI** (`visuals.pbix`) para el monitoreo de indicadores clave.
 
 ## Video de defensa
-
+https://ucaedusv-my.sharepoint.com/:v:/g/personal/00026724_uca_edu_sv/IQBn58oy806nSItEvX9iCB9QAebCFJa2Ev3cjvO0cN234NU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qcmKiB
 El video de defensa quedo mas largo de lo que deberia, por la carga de contenidos que es amplia, espero disuculpe y valore los esfuerzos de explicar el contenido, resumiendolo para alcanzar el tiempo establecido
